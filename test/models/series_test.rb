@@ -1,6 +1,6 @@
 require "test_helper"
 
-class ContentTest < ActiveSupport::TestCase
+class SeriesTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
